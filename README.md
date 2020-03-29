@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Реализовать приложение-секундомер с описанными снизу требованиями. Аналогичное этому https://hooks-hw.now.sh
+Реализовать приложение-секундомер с описанными ниже требованиями. Аналогичное этому https://hooks-hw.now.sh
 
 Код решения выложить в профиль GitHub/GitLab. Публиковать приложение в сети не обязательно.
 
